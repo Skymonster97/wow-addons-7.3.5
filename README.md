@@ -60,7 +60,7 @@
 
 - [x] Quartz
 
-### Время востановления заклинаний
+### Время восстановления заклинаний
 
 - [ ] OmniCC
 - [x] tullaCC
@@ -178,7 +178,7 @@
 - [x] RareScanner
 - [x] SilverDragon
 
-### Колекции
+### Коллекции
 
 - [ ] AllTheThings
 - [ ] CollectMe
