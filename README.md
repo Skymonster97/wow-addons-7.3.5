@@ -157,6 +157,8 @@
 - [ ] MinimalArchaeology
 - [x] CloudyTradeSkill
 - [x] DoesMyAltKnowThat
+- [x] Gatherer
+- [x] GathererDB_Wowhead
 
 ### Почта
 
@@ -195,6 +197,7 @@
 - [x] BattlePetBattleStats
 - [x] PetJournal_QuickFilter
 - [x] PetJournalEnhanced
+- [x] PetTracker
 
 ### Role Play
 
