@@ -174,6 +174,8 @@
 - [x] LinkWrangler
 - [x] SmexyMats
 - [x] TipTac
+- [ ] TipTacItemRef
+- [x] TooltipItemIcon
 
 ### Поиск редких NPC
 
